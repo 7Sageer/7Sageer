@@ -4,4 +4,4 @@
 - 🌐 [blog.qhr.asia](https://blog.qhr.asia)
 - 🌟 "Stay hungry, stay foolish." - Pursuing knowledge and innovation, always.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7Sageer)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7Sageer&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
