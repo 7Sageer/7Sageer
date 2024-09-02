@@ -2,7 +2,9 @@
 
 ## About Me
 🎓 Computer Science Undergraduate @ Southern University of Science and Technology (SUSTech)
+
 💡 Passionate about leveraging technology to create positive impact
+
 🌱 Constantly learning and growing in:
    - Python | Go | Java | C++ | JavaScript | Vue.js
 
