@@ -1,4 +1,4 @@
-# Hello, World! I'm 7Sageer 👋
+# 7Sageer in the House 👋
 
 ## About Me
 🎓 Computer Science Undergraduate @ Southern University of Science and Technology (SUSTech)
