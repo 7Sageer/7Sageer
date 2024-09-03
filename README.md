@@ -3,7 +3,7 @@
 ## About Me
 🎓 Computer Science Undergraduate @ Southern University of Science and Technology (SUSTech)
 
-💡 Passionate about leveraging technology to create positive impact
+💡 Passionate about leveraging technology to create a positive impact
 
 🌱 Constantly learning and growing in:
    - Python | Go | Java | C++ | JavaScript | Vue.js
@@ -15,7 +15,7 @@
 
 ## Featured Project
 🚀 [sublink-worker](https://github.com/7Sageer/sublink-worker)
-   A light-weighted solution for proxy subscribe link convent. Check it out!
+   A lightweight solution for subscribe proxy link convent. Check it out!
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7Sageer&show_icons=true&theme=tokyonight)
@@ -26,7 +26,7 @@
 Always pursuing knowledge, embracing innovation, and striving for excellence.
 
 ## Interests & Fun Facts
-- 🎮 Strategic thinker: Achieved top 5 rank in NA Hearthstone
+- 🎮 Wild Hearthstone Player: Achieved top 5 rank in NA
 - 🌆 Urban explorer: Finding inspiration through city walks
 - 🐻 Winnie the Pooh fanatic
 
