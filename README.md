@@ -11,9 +11,10 @@
    - Python | Go | Java | C++ | JavaScript | Vue.js
 
 ## Connect With Me
-<!-- 🌐 [Personal Blog](https://blog.qhr.asia) -->
+🌐 [Personal Blog](https://7.sageer.me)
 📫 [Email](mailto:7sageer@djwcb.cn)
 🐦 [Twitter/X](https://x.com/sag77r)
+
 
 ## Featured Project
 
