@@ -6,10 +6,6 @@
 
 💡 Passionate about leveraging technology to create a positive impact
 
-🌱 Constantly learning and growing in:
-
-   - Python | Go | Java | C++ | JavaScript | Vue.js
-
 ## Connect With Me
 📫 [Email](mailto:7sageer@djwcb.cn)
 🐦 [Twitter/X](https://x.com/sag77r)
