@@ -10,7 +10,9 @@
 📫 [Email](mailto:7sageer@djwcb.cn)
 🐦 [Twitter/X](https://x.com/sag77r)
 
+## Tech stack
 
+![Jack of all trades, master of integration. Moving beyond individual stacks like React, Kubernetes, and Python towards holistic AI-driven solutions.](/techstack.jpg "Keywords: Full-stack, System Integration, AI Engineer, Python, JavaScript, Go, Architecture, Problem Solving")
 ## Featured Project
 
 🚀 [sublink-worker](https://github.com/7Sageer/sublink-worker)
