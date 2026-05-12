@@ -32,7 +32,6 @@ Always pursuing knowledge, embracing innovation, and striving for excellence.
 
 ## Connect With Me
 📫 [Email](mailto:7sageer@djwcb.cn)
-🐦 [Twitter/X](https://x.com/sag77r)
 
 ---
 
