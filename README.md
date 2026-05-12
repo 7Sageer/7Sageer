@@ -18,10 +18,6 @@
 🚀 [sublink-worker](https://github.com/7Sageer/sublink-worker)
    A lightweight solution for subscribe proxy link conventer. Check it out!
 
-## GitHub Card
-
-![Github Card](https://githubcard.com/7Sageer.svg?d=4xM6y86X)
-
 ## My Mantra
 
 > "Stay hungry, stay foolish." - Steve Jobs
