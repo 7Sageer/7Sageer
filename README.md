@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 Computer Science Undergraduate @ Southern University of Science and Technology (SUSTech)
+💼 Technical Staff @ MoonshotAI
 
 💡 Passionate about leveraging technology to create a positive impact
 
