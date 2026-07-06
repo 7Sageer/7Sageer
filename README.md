@@ -16,7 +16,7 @@
 ## Featured Project
 
 🚀 [sublink-worker](https://github.com/7Sageer/sublink-worker)
-   A lightweight solution for subscribe proxy link conventer. Check it out!
+   A lightweight solution for subscription proxy link converter. Check it out!
 
 ## My Mantra
 
