@@ -2,7 +2,7 @@
 
 ## About Me
 
-💼 Technical Staff @ MoonshotAI
+💼 Technical Staff @MoonshotAI
 
 💡 Passionate about leveraging technology to create a positive impact
 
