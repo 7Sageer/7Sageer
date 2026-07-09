@@ -30,9 +30,6 @@ Always pursuing knowledge, embracing innovation, and striving for excellence.
 - 🌆 Urban explorer: Finding inspiration through city walks
 - 🐻 Winnie the Pooh fanatic
 
-## Connect With Me
-📫 [Email](mailto:7sageer@djwcb.cn)
-
 ---
 
 💬 Feel free to reach out for collaborations or just a chat!
